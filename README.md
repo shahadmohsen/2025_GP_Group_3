@@ -22,4 +22,19 @@ The Taif project leverages a wide range of modern technologies to deliver its fe
 - Data Processing: Google Colab  
 
 ## Launching Instructions  
+Step 1 — Download the Project
+
+Download the 2025_GP_Group_3.zip file from the GitHub repository and save it locally.
+
+Step 2 — Run the Source Code in Visual Studio Code
+
+1. Open Visual Studio Code  
+2. Click File → Open Folder  
+3. Select the project folder
+4. Open terminal (View → Terminal)  
+5. Run: flutter pub get  
+6. Then run: flutter run  
+7. Ensure a device/emulator is connected  
+
+
 
